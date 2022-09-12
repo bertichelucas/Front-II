@@ -1,0 +1,21 @@
+Clase 19
+- Realizamos el login
+- Redireccionamos a 'mis-tareas.html'
+  
+Mesa 10
+- Realizamos el signup
+
+
+Clase 20
+- Obtenemos el usuario logeado
+- Obtenemos las tareas
+- Renderizamos las tareas
+  
+Mesa 20
+- Permitimos crear una nueva tarea
+  
+Clase 21
+- Permitimos cambiar el estado de una tarea
+  
+Mesa 21
+- Permitimos eliminar una tarea
